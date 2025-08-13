@@ -1,19 +1,19 @@
-.color-class {
-    background-color: #ffc0cb;   
+p {
+    background-color: #ffc0cb;
+    font-family: verdana, Dejavu Sans, sans-serif;   
 }
 
-#text-id {
-    color: blue;
+#one {
+    color: #0000ff;
     font-size: 36px;
 }
 
-#text-id2 {
-    color: #000000;
+.cooler {
     font-size: 24px;
-    font-weight: bold;
 }
 
-#text-id3 {
-    color: #000000;
-    
+#two {
+    background-color: #90ee90;
+    font-size: 24px;
+    font-weight: bold;
 }
